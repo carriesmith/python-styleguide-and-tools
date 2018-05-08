@@ -1,8 +1,5 @@
 
-This document is being developed as topics emerge through code reviews, collected [here](https://docs.google.com/spreadsheets/d/1F72ZMBK1bjE4q6jh_LIx908JRS5Z9L0q7YonTnXQ7-E/edit#gid=0), and as a notes from [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/). Additional books and resources to be added.
-
-The intention is for this document to evolve into a OpenInvest specific Python styleguide, tool ecosystem and onboarding document. It's not there yet.
-
+This document is being developed as topics emerge through code reviews and as a notes from [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/). Additional books and resources to be added.
 
 ## Markdown Tools ##
 
